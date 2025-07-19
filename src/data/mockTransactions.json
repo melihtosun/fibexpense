@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2025-07-01",
+    "merchant": "Starbucks",
+    "amount": 42.5,
+    "category": "Coffee"
+  },
+  {
+    "date": "2025-07-03",
+    "merchant": "Uber",
+    "amount": 85.0,
+    "category": "Transport"
+  },
+  {
+    "date": "2025-07-05",
+    "merchant": "Amazon",
+    "amount": 127.99,
+    "category": "Shopping"
+  },
+  {
+    "date": "2025-07-07",
+    "merchant": "Whole Foods",
+    "amount": 89.45,
+    "category": "Groceries"
+  },
+  {
+    "date": "2025-07-08",
+    "merchant": "Shell",
+    "amount": 65.00,
+    "category": "Gas"
+  },
+  {
+    "date": "2025-07-10",
+    "merchant": "McDonald's",
+    "amount": 12.75,
+    "category": "Fast Food"
+  },
+  {
+    "date": "2025-07-12",
+    "merchant": "Netflix",
+    "amount": 15.99,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-07-14",
+    "merchant": "Target",
+    "amount": 234.67,
+    "category": "Shopping"
+  },
+  {
+    "date": "2025-07-15",
+    "merchant": "Starbucks",
+    "amount": 39.25,
+    "category": "Coffee"
+  },
+  {
+    "date": "2025-07-17",
+    "merchant": "Lyft",
+    "amount": 23.50,
+    "category": "Transport"
+  },
+  {
+    "date": "2025-07-18",
+    "merchant": "Spotify Premium",
+    "amount": 9.99,
+    "category": "Subscriptions"
+  },
+  {
+    "date": "2025-07-19",
+    "merchant": "Dunkin'",
+    "amount": 18.75,
+    "category": "Coffee"
+  },
+  {
+    "date": "2025-07-19",
+    "merchant": "Best Buy",
+    "amount": 299.99,
+    "category": "Shopping"
+  },
+  {
+    "date": "2025-07-16",
+    "merchant": "Uber Eats",
+    "amount": 28.50,
+    "category": "Fast Food"
+  },
+  {
+    "date": "2025-07-13",
+    "merchant": "Adobe Creative",
+    "amount": 22.99,
+    "category": "Subscriptions"
+  }
+]
